@@ -1,0 +1,8 @@
+{
+  "name": "معلم دهانات في الرياض",
+  "description": "صفحة هبوط لمعلم دهانات وديكورات بالرياض",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
